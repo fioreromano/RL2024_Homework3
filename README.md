@@ -23,7 +23,7 @@ ros2 run ros2_opencv ros2_open_cv_node
 ```
 ## SECOND POINT
 2.a
-i) here we spawn the gazebo world with the ArUco tag inside and we exectue the positioning task. Youtube link :
+i) here we spawn the gazebo world with the ArUco tag inside and we exectue the positioning task. Youtube link :https://youtu.be/dgOmxvEkXrY
 ```
 ros2 launch iiwa_bringup iiwa.launch.py command_interface:="velocity" robot_controller:="velocity_controller" use_sim:=true use_vision:=true
 ```
