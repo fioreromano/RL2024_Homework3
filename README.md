@@ -93,5 +93,5 @@ ros2 run ros2_kdl_package ros2_kdl_vision_control --ros-args -p cmd_interface:=e
 > The robot will be launched with the **Joint Space controller**.  
 ---
 📹 Check out the video : https://www.youtube.com/watch?v=b3cn5bcMcGs
-
-You can go from the Joint Space controller to the **Cartesian Space** controller by changing the code.
+> **Note:**
+> You can go from the Joint Space controller to the **Cartesian Space** controller by changing the code.
